@@ -1,0 +1,23 @@
+.time-line-container {
+  background-color: #ffffff;
+  min-height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.my-journey-heading {
+  font-family: 'Roboto';
+  color: #1e293b;
+  font-weight: 500;
+  font-size: 25px;
+}
+
+.ccbp-heading {
+  font-family: 'Roboto';
+  color: #2b237c;
+  font-weight: 500;
+  font-size: 30px;
+}
